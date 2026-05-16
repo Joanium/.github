@@ -1,7 +1,7 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d238934d-b5cc-4a81-b081-eca743ef30ff">
-        <img src="https://github.com/user-attachments/assets/d238934d-b5cc-4a81-b081-eca743ef30ff" alt="Joanium" width="150">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5bee30c5-157b-4fc1-bb4e-731df9fae7cc">
+        <img src="https://github.com/user-attachments/assets/5bee30c5-157b-4fc1-bb4e-731df9fae7cc" alt="Joanium" width="150">
     </picture>
 </p>
 
