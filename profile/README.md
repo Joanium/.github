@@ -1,9 +1,4 @@
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5bee30c5-157b-4fc1-bb4e-731df9fae7cc">
-        <img src="https://github.com/user-attachments/assets/5bee30c5-157b-4fc1-bb4e-731df9fae7cc" alt="Joanium" width="150">
-    </picture>
-</p>
+<img width="1280" height="720" alt="Joanium Cover" src="https://github.com/user-attachments/assets/0bbfc584-5622-4f91-93bc-78ffab2f0cdb" />
 
 <p align="center">
   <strong>The AI desktop assistant that actually lives on your machine.</strong><br>
